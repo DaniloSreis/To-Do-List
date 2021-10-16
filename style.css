@@ -60,3 +60,14 @@ body {
   border-radius: 0.5rem;
   border: none;
 }
+
+@media (max-width: 544px) {
+  .container {
+    width: 90%;
+
+    padding: 1.5rem;
+  }
+  .container-input > input {
+    width: 15rem;
+  }
+}
