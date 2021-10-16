@@ -70,4 +70,7 @@ body {
   .container-input > input {
     width: 15rem;
   }
+  .container-lista {
+    width: 100%;
+  }
 }
